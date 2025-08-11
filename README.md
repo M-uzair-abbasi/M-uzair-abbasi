@@ -19,8 +19,7 @@ I believe in **learning by building** — the more I experiment, the more I grow
 In AI i am quite fascinated by Healthcare in AI
 
 ---
-
-<img align="right" alt="Coding Illustration" width="400" src="https://raw.githubusercontent.com/DarshiniMahesh/DarshiniMahesh/main/assets/undraw_programming_re_kg9v.svg" />
+<img align="right" alt="Coding animation" width="400" src="https://raw.githubusercontent.com/M-uzair-abbasi/M-uzair-abbasi/a1c92288d6ec353dd19ffe8ab8afc001b1085660/Developer.gif" />
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
@@ -48,10 +47,10 @@ In AI i am quite fascinated by Healthcare in AI
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-uzair-abbasi&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-uzair-abbasi&show_icons=true&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=M-uzair-abbasi&theme=radical&margin-w=15&margin-h=15)
