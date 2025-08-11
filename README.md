@@ -1,42 +1,57 @@
 # Hi 👋, I'm Muhammad Uzair
 
-### An aspiring AI Engineer and Computer Science student from Pakistan
-
-- 🌱 I’m currently learning **MLOps**  
-- 🔭 I’m currently working on an **AI-powered automation project**  
-- 📫 Reach out to me: [uzair@example.com](mailto:uzair@example.com)  
-- ⚡ Fun fact: **I love solving problems and exploring unpredictable ideas**  
+### 🎯 Aspiring AI Engineer • BSAI Student @ GIKI • Future MLOps & Azure Specialist
 
 ---
 
-## 🌐 Connect with me:
+## 🚀 About Me
+I’m a **Bachelor of Science in Artificial Intelligence** student at **GIKI**, deeply passionate about building intelligent systems that solve real-world problems.  
+My focus is on creating **scalable AI solutions** by combining **Machine Learning**, **Deep Learning**, and **MLOps** with cloud technologies like **Microsoft Azure**.
+
+I’m fascinated by:
+- 🧠 **Natural Language Processing (NLP)** & **Large Language Models (LLMs)**  
+- 📈 **End-to-end Machine Learning pipelines** from data ingestion to deployment  
+- 🔍 Leveraging **MLOps** for reproducibility, scalability, and continuous improvement  
+- ☁️ Cloud-based AI workflows on **Azure**
+
+When I’m not coding, I’m learning how to push AI systems closer to human-like reasoning.  
+I believe in **learning by building** — the more I experiment, the more I grow.
+In AI i am quite fascinated by Healthcare in AI
+
+---
+
+<img align="right" alt="Coding Illustration" width="400" src="https://raw.githubusercontent.com/DarshiniMahesh/DarshiniMahesh/main/assets/undraw_programming_re_kg9v.svg" />
+
+## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzair@example.com)
 
 ---
 
-## 💻 Languages and Tools:
+## 🛠️ Languages & Tools
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="40" height="40"/>
+<img src="https://img.icons8.com/external-flat-juicy-fish/344/external-machine-learning-big-data-flat-flat-juicy-fish.png" width="40" height="40"/>
+<img src="https://img.icons8.com/external-flat-juicy-fish/344/external-deep-learning-big-data-flat-flat-juicy-fish.png" width="40" height="40"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&margin-w=15&margin-h=15)
