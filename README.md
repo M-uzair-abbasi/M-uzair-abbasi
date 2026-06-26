@@ -1,56 +1,88 @@
-# Hi 👋, I'm Muhammad Uzair
+<h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
 
-### 🎯 Aspiring AI Engineer • BSAI Student @ GIKI • Future MLOps & Azure Specialist
+<h3 align="center">AI Engineer in the making • BSAI @ GIKI • Building production ML & LLM systems</h3>
 
 ---
 
 ## 🚀 About Me
-I’m a **Bachelor of Science in Artificial Intelligence** student at **GIKI**, deeply passionate about building intelligent systems that solve real-world problems.  
-My focus is on creating **scalable AI solutions** by combining **Machine Learning**, **Deep Learning**, and **MLOps** with cloud technologies like **Microsoft Azure**.
 
-I’m fascinated by:
-- 🧠 **Natural Language Processing (NLP)** & **Large Language Models (LLMs)**  
-- 📈 **End-to-end Machine Learning pipelines** from data ingestion to deployment  
-- 🔍 Leveraging **MLOps** for reproducibility, scalability, and continuous improvement  
-- ☁️ Cloud-based AI workflows on **Azure**
+I'm an **Artificial Intelligence** undergraduate at **GIKI**, focused on shipping AI that actually runs in production — not just notebooks.
 
-When I’m not coding, I’m learning how to push AI systems closer to human-like reasoning.  
-I believe in **learning by building** — the more I experiment, the more I grow.
-In AI i am quite fascinated by Healthcare in AI
-
----
-<img align="right" alt="Coding animation" width="400" src="https://raw.githubusercontent.com/M-uzair-abbasi/M-uzair-abbasi/a1c92288d6ec353dd19ffe8ab8afc001b1085660/Developer.gif" />
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uzair@example.com)
+- 🧠 I work across **Machine Learning**, **Deep Learning**, **NLP & LLMs**, and **MLOps**
+- 🏥 Especially drawn to **AI in Healthcare** and real-world, high-impact systems
+- ⚙️ Currently building my FYP: an **Autonomous AI Database Agent** (natural-language-to-SQL + self-healing PostgreSQL)
+- 🌱 Deepening my skills in **CI/CD, Docker, and cloud-based AI workflows**
+- 💡 I learn by building — the more I ship, the more I grow
 
 ---
 
-## 🛠️ Languages & Tools
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="40" height="40"/>
-<img src="https://img.icons8.com/external-flat-juicy-fish/344/external-machine-learning-big-data-flat-flat-juicy-fish.png" width="40" height="40"/>
-<img src="https://img.icons8.com/external-flat-juicy-fish/344/external-deep-learning-big-data-flat-flat-juicy-fish.png" width="40" height="40"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M-uzair-abbasi/M-uzair-abbasi/a1c92288d6ec353dd19ffe8ab8afc001b1085660/Developer.gif" width="400" alt="Coding animation" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-uzair-abbasi&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-uzair-abbasi&show_icons=true&theme=dark)
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" />
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.svg" width="45" height="45" alt="scikit-learn" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45" alt="OpenCV" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45" alt="GitHub Actions" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Azure" />
+</p>
+
+`Python` · `C++` · `TensorFlow` · `PyTorch` · `scikit-learn` · `OpenCV` · `LangChain` · `FastAPI` · `Docker` · `GitHub Actions` · `PostgreSQL` · `MySQL` · `Azure`
 
 ---
 
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=M-uzair-abbasi&theme=radical&margin-w=15&margin-h=15)
+## 🔭 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **Autonomous AI Database Agent** *(FYP)* | Natural-language-to-SQL querying, self-healing DB infrastructure, and conversational BI for PostgreSQL | Python, FastAPI, PostgreSQL, LLMs, LangChain, React |
+| **House Price Prediction** | ML model for house price prediction using XGBoost, feature engineering & pipelines | Python, XGBoost, scikit-learn |
+| **Credit Risk Prediction** | Classification model to predict credit risk from financial data | Python, scikit-learn |
+| **Dockerized ML Deployment Pipeline** | Containerized ML inference service with a GitHub Actions CI/CD pipeline | Docker, FastAPI, GitHub Actions |
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **Silver Medal — ICPC Pakistan** (Ranked 7th nationally)
+- 🎓 **HEC Merit Scholarship** — PKR 1.2 Million for academic excellence
+- 🥇 **Provincial Topper** — Ranked 1st in Balochistan (HSSC Computer Science)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-uzair-abbasi&show_icons=true&theme=dark" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-uzair-abbasi&layout=compact&theme=dark" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M-uzair-abbasi&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-uzair-733b29182/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhammaduzairabbasi0@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
