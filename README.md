@@ -48,10 +48,10 @@ I'm an **Artificial Intelligence** undergraduate at **GIKI**, focused on shippin
 
 | Project | Description | Tech |
 |---|---|---|
-| **Autonomous AI Database Agent** *(FYP)* | Natural-language-to-SQL querying, self-healing DB infrastructure, and conversational BI for PostgreSQL | Python, FastAPI, PostgreSQL, LLMs, LangChain, React |
-| **House Price Prediction** | ML model for house price prediction using XGBoost, feature engineering & pipelines | Python, XGBoost, scikit-learn |
-| **Credit Risk Prediction** | Classification model to predict credit risk from financial data | Python, scikit-learn |
-| **Dockerized ML Deployment Pipeline** | Containerized ML inference service with a GitHub Actions CI/CD pipeline | Docker, FastAPI, GitHub Actions |
+| **Autonomous AI Database Agent** *(FYP)* | An AI platform with natural-language-to-SQL querying, self-healing database infrastructure (auto VACUUM / REINDEX / connection cleanup), and conversational BI for PostgreSQL | Python, FastAPI, PostgreSQL, LLMs, LangChain, React |
+| **Smart Attendance System** | Face-recognition attendance system serving **500+ students at 98% real-time accuracy**, replacing manual roll-call across 15+ classes | Python, OpenCV, Deep Learning, MySQL |
+| **RAG Knowledge Assistant** | Retrieval-Augmented Generation system combining a vector store with an LLM backend for grounded, domain-specific answers | Python, LangChain, Vector DB, FastAPI |
+| **Dockerized ML Deployment Pipeline** | Containerized ML inference service at sub-200ms latency, with a GitHub Actions CI/CD pipeline cutting release steps from 8 to 1 | Docker, FastAPI, GitHub Actions |
 
 ---
 
