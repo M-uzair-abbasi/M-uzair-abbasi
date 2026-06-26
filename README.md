@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
+<h1 align="center">Hi , I'm Muhammad Uzair</h1>
 
 <h3 align="center">AI Engineer in the making • BSAI @ GIKI • Building production ML & LLM systems</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm an **Artificial Intelligence** undergraduate at **GIKI**, focused on shipping AI that actually runs in production — not just notebooks.
 
-- 🧠 I work across **Machine Learning**, **Deep Learning**, **NLP & LLMs**, and **MLOps**
-- 🏥 Especially drawn to **AI in Healthcare** and real-world, high-impact systems
-- ⚙️ Currently building my FYP: an **Autonomous AI Database Agent** (natural-language-to-SQL + self-healing PostgreSQL)
-- 🌱 Deepening my skills in **CI/CD, Docker, and cloud-based AI workflows**
-- 💡 I learn by building — the more I ship, the more I grow
+- I work across **Machine Learning**, **Deep Learning**, **NLP & LLMs**, and **MLOps**
+- Especially drawn to **AI in Healthcare** and real-world, high-impact systems
+- Currently building my FYP: an **Autonomous AI Database Agent** (natural-language-to-SQL + self-healing PostgreSQL)
+- Deepening my skills in **CI/CD, Docker, and cloud-based AI workflows**
+- I learn by building — the more I ship, the more I grow
 
 ---
 
@@ -22,7 +22,7 @@ I'm an **Artificial Intelligence** undergraduate at **GIKI**, focused on shippin
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
@@ -44,7 +44,7 @@ I'm an **Artificial Intelligence** undergraduate at **GIKI**, focused on shippin
 
 ---
 
-## 🔭 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -55,15 +55,15 @@ I'm an **Artificial Intelligence** undergraduate at **GIKI**, focused on shippin
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- 🥈 **Silver Medal — ICPC Pakistan** (Ranked 7th nationally)
-- 🎓 **HEC Merit Scholarship** — PKR 1.2 Million for academic excellence
-- 🥇 **Provincial Topper** — Ranked 1st in Balochistan (HSSC Computer Science)
+- **Silver Medal — ICPC Pakistan** (Ranked 7th nationally)
+- **HEC Merit Scholarship** — PKR 1.2 Million for academic excellence
+- **Provincial Topper** — Ranked 1st in Balochistan (HSSC Computer Science)
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-uzair-abbasi&show_icons=true&theme=dark" height="165" alt="GitHub Stats" />
